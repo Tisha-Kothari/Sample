@@ -1,4 +1,4 @@
 # Sample
 This is my first Git Repository.
 <br>
-Author - Tisha Kothari
+Author - Tisha Yogita Sachin Kothari
